@@ -1,4 +1,5 @@
 the program will take a list of numbers and sort them for smallest to biggest
+
 printValues(int* arr)
 A pointer to an array of integers.
 Steps:
