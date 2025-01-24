@@ -12,7 +12,7 @@ void bubbleSort(int arr[], int n) {
 }
 
 int main() {
-    int arr[9] = {34, 7, 23, 32, 5, 62, 32, 10, 3};
+    int arr[9] = {7, 3, 9, 4, 6, 1, 2, 8, 5};
     int n = 9;
 
     printf("Original array: ");
